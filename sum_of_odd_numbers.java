@@ -5,7 +5,5 @@ class Odd{
             sum=sum+i;
         }
         System.out.println("sum is:"+sum);
-       
-
     }
 }
