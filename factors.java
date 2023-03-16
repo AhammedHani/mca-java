@@ -12,6 +12,5 @@ class Sum{
             }
         }
         input.close();
-
     }
 }
