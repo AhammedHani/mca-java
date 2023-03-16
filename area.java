@@ -7,7 +7,6 @@ System.out.println("enter length of rectangle:");
 length=input.nextInt();
 System.out.println("enter breadth of rectangle:");
 breadth=input.nextInt();
-
 }
 void Area(){
 int area=length*breadth;
@@ -17,10 +16,7 @@ void perimeter(){
 int perimeter=2*(length+breadth);
 System.out.println("Perimeter is:"+perimeter);
 }
-
 }
-
-
 class Main{
 public static void main(String args[]){
 Area a=new Area();
