@@ -13,5 +13,4 @@ a=a/10;
 }
 System.out.println("Reverse is:"+rev);
 }
-
 }
