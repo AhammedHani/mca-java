@@ -1,6 +1,5 @@
 import java.util.Scanner;
 class Armstrong{
-   
    void check(){
       Scanner input=new Scanner(System.in);
       System.out.println("Enter a number:");
@@ -20,11 +19,9 @@ class Armstrong{
    }
 }
 
-class Main {
+class Main{
     public static void main(String args[]){
         Armstrong a=new Armstrong();
         a.check();
-        
-    }
-    
+    }  
 }
