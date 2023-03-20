@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Fibonacci {
+class Fibonacci{
     void display(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the limit:");
@@ -13,10 +13,7 @@ class Fibonacci {
             sum=n1+n2;
             count=count+1;
         }
-
-
-    }
-    
+    }  
 }
 
 class Main1{
