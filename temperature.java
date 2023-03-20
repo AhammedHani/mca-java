@@ -34,7 +34,6 @@ class Temperature{
             else{
                 System.out.println("wrong choice.");
             }
-
         }
     }
 }
