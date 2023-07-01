@@ -6,8 +6,8 @@ class InvalidUser extends Exception{
     }
 }
 class UserValidate{
-    String Username="fathimashereen";
-    String Password="fs123";
+    String Username="ahammedhani";
+    String Password="Hani1234";
     void Validate(String un,String pw) throws InvalidUser{
             if((un.equals(Username))&&(pw.equals(Password))){
                 System.out.println("Login Successfull");
